@@ -1,0 +1,20 @@
+{
+  "minimal-style@@h1-size": "1.6em",
+  "minimal-style@@h2-size": "1.4em",
+  "minimal-style@@h3-size": "1.2em",
+  "minimal-style@@h3-weight": 700,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@h1-size": "1.6em",
+  "blue-topaz-theme@@print-h1-color@@light": "#2ADE71",
+  "blue-topaz-theme@@print-h1-color@@dark": "#12C282",
+  "blue-topaz-theme@@h2-size": "1.4em",
+  "blue-topaz-theme@@h3-size": "1.2em",
+  "blue-topaz-theme@@h4-size": "1em",
+  "blue-topaz-theme@@h2-weight": "600",
+  "blue-topaz-theme@@h3-weight": "600",
+  "minimal-style@@h1-color@@dark": "#7EDF88",
+  "minimal-style@@h2-color@@dark": "#5BBECD"
+}

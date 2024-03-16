@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "4a3ffe64a823c5bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c124dfd59e23c0d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d71b25db9877a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/数学分析/下册/函数项级数.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c60871815a6e00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Python/Conclusion/一些算法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8605252590f4058",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9052d067eae01f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d59db1b1ab8bdd0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60d60666bd9fe1d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ac0884de7cf1fc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "2d81117c014cf85a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ad87c4507038833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8fe3d9eb596310a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/Python/Conclusion/一些算法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fe8eafd9d0daa47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Study/Python/Conclusion/一些算法.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5460f815ca6ea618",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d61d4a415bc958d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Study/Python/Conclusion/一些算法.md"
+              }
+            }
+          },
+          {
+            "id": "8e362a08f2beb0e8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "8c60871815a6e00f",
+  "lastOpenFiles": [
+    "Study/Python/Conclusion/序列容器类型.md",
+    "Study/Python/Conclusion/基础语法.md",
+    "Study/Python/Conclusion/函数.md",
+    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
+    "Study/Electrodynamics/Electrodynamics/2.Electrostatics.md",
+    "Study/Electrodynamics/Electrodynamics/3.Potential (part2).md",
+    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
+    "Study/数学分析/下册/幂级数.md",
+    "Study/数学分析/下册/函数项级数.md",
+    "Study/数学分析/下册/常数项级数.md",
+    "Study/数学分析/手写笔记/Untitled.png",
+    "Notion/函数项级数",
+    "Notion",
+    "Study/数学分析/下册/81130981-e2cc-45b6-829b-c9dd8313d4df_Export-5a9f0ebf-5828-48e7-97c3-a4d84f5f63c4.zip",
+    "2024-03-15.md",
+    "My-notes",
+    "Study/Python/Conclusion/一些算法.md",
+    "Study/C Language/知识总结/Function & Variables.md",
+    "General courses/军理.md",
+    "General courses/中国近代史/中国近代史开端.md",
+    "General courses/中国近代史/中国的出路在哪里.md",
+    "Study/数学分析/上册/第5章 微分中值定理和应用.md",
+    "Study/数学分析/上册/第4章 微分和导数.md",
+    "Study/数学分析/上册/第3章 函数极限.md",
+    "Study/C Language/知识总结/Sorting.md",
+    "Study/C Language/知识总结/Pointer & Array.md",
+    "General courses/职业生涯规划/价值观.md",
+    "Study/Python/coures/python第9节.md",
+    "General courses/职业生涯规划",
+    "Study/Electrodynamics/course",
+    "Study/Python/coures/python第5节.md",
+    "Study/Python/coures/python第4节.md",
+    "General courses",
+    "Study/Electrodynamics/figure/Untitled 3.png",
+    "Study/Electrodynamics/figure",
+    "Study/Electrodynamics/figure/Untitled 2 2.png",
+    "Study/Electrodynamics/figure/Untitled 1 2.png",
+    "Study/Electrodynamics/figure/Untitled.png",
+    "Study/Electrodynamics/figure/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240131171137.jpg",
+    "Study/Electrodynamics/figure/Untitled 2.png",
+    "Study/Electrodynamics/figure/Untitled 1.png",
+    "Notion/Electrodynamics/Electrodynamics/Potential (part2)",
+    "Notion/Electrodynamics/Electrodynamics/Electrostatics",
+    "Study/Python/coures/Pasted image 20240310091912.png",
+    "Physics/Electrodynamics/Capacitors.jpg",
+    "未命名.canvas"
+  ]
+}
