@@ -45,7 +45,7 @@ print(*object,sep=" ",end="\n",file=sys.stdout)
 ```python
 print(*lis)#实参解包
 ```
-将参数收集到列表中(`**`)
+将参数收集到字典中(`**`)
 ```python
 def count(a,**d):
 	print(d)
