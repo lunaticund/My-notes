@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5607cd98c564996f",
+            "id": "15eabb5aa763af1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Thermal Physics/Kintic Theory.md",
+                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc5c928ff18418e4",
+            "id": "eae99a24484719dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General courses/中国近代史/3.中国共产党的成立.md",
+                "file": "General courses/中国近代史/4.中国新民主主义革命.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Thermal Physics/Kintic Theory.md",
+                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Thermal Physics/Kintic Theory.md",
+                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Thermal Physics/Kintic Theory.md"
+                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md"
               }
             }
           },
@@ -168,54 +168,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5607cd98c564996f",
+  "active": "15eabb5aa763af1f",
   "lastOpenFiles": [
-    "General courses/中国近代史/3.中国共产党的成立.md",
-    "Study/Thermal Physics/Kintic Theory.md",
-    "Study/Thermal Physics/Some Fundamental Concepts.md",
+    "General courses/中国近代史/4.中国新民主主义革命.md",
+    "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
     "General courses/中国近代史/2.中国的出路在哪里.md",
+    "General courses/中国近代史/3.中国共产党的成立.md",
+    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
+    "Study/Electrodynamics/Electrodynamics/2.Electrostatics.md",
+    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
+    "Study/Electrodynamics/Electrodynamics/3.Potential (part2).md",
+    "Study/Python/Conclusion/序列容器类型.md",
+    "Study/Python/Conclusion/基础语法.md",
+    "Study/Python/Conclusion/函数.md",
+    "Study/Python/Conclusion/一些算法.md",
+    "Study/Python/coures/Python第7节.md",
+    "Study/Python/coures/python第6节.md",
+    "Study/Python/coures/python第5节.md",
+    "Study/Python/coures/python第3节.md",
+    "Study/Thermal Physics/notes/Kinetic Theory.md",
+    "Study/Thermal Physics/notes/Some Fundamental Concepts.md",
+    "Study/Thermal Physics/notes/The Second Law.md",
+    "Study/Thermal Physics/notes/Mathematics.md",
+    "Study/Thermal Physics/notes",
+    "Study/Thermal Physics/images",
+    "Study/Thermal Physics/images/Pasted image 20240330113554.png",
+    "Study/数学分析/下册/幂级数.md",
+    "Study/Thermal Physics/images/Pasted image 20240330111443.png",
+    "Study/Thermal Physics/Pasted image 20240330113507.png",
+    "Pasted image 20240330111302.png",
+    "Study/数学分析/下册/函数展开.md",
     "General courses/中国近代史/1.中国近代史开端.md",
     "Study/Python/coures/python第11节.md",
     "Study/Python/coures/python第12节.md",
     "Study/Python/coures/python第13节课.md",
-    "Study/Thermal Physics/Mathematics.md",
     "Study/Thermal Physics",
-    "General courses/职业生涯规划/生涯愿景.md",
-    "Study/数学分析/下册/幂级数.md",
-    "General courses/军理.md",
     "Study/Python/coures/Pasted image 20240317221218.png",
     "Study/Python/coures/Pasted image 20240317221203.png",
     "Study/Python/coures/Pasted image 20240317224656.png",
     "Study/Python/coures/Pasted image 20240317221713.png",
-    "Study/Python/coures/python第9节.md",
-    "Study/Python/Conclusion/函数.md",
-    "Study/Python/Conclusion/基础语法.md",
-    "Study/Python/Conclusion/一些算法.md",
-    "Study/Python/Conclusion/序列容器类型.md",
-    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
-    "Study/Electrodynamics/Electrodynamics/2.Electrostatics.md",
-    "Study/Electrodynamics/Electrodynamics/3.Potential (part2).md",
-    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
-    "Study/数学分析/下册/函数项级数.md",
-    "Study/数学分析/下册/常数项级数.md",
     "Study/数学分析/手写笔记/Untitled.png",
     "Notion/函数项级数",
     "Notion",
     "Study/数学分析/下册/81130981-e2cc-45b6-829b-c9dd8313d4df_Export-5a9f0ebf-5828-48e7-97c3-a4d84f5f63c4.zip",
-    "2024-03-15.md",
     "My-notes",
-    "Study/C Language/知识总结/Function & Variables.md",
-    "Study/数学分析/上册/第5章 微分中值定理和应用.md",
     "General courses/职业生涯规划",
     "Study/Electrodynamics/course",
     "General courses",
     "Study/Electrodynamics/figure/Untitled 3.png",
-    "Study/Electrodynamics/figure",
-    "Study/Electrodynamics/figure/Untitled 2 2.png",
-    "Study/Electrodynamics/figure/Untitled 1 2.png",
-    "Study/Electrodynamics/figure/Untitled.png",
-    "Study/Electrodynamics/figure/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240131171137.jpg",
-    "Notion/Electrodynamics/Electrodynamics/Potential (part2)",
     "未命名.canvas"
   ]
 }
