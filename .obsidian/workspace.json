@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f3501f8fcc062eb",
+        "id": "af9a0400e16a9f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "15eabb5aa763af1f",
+            "id": "c1dc35123989aa44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eae99a24484719dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General courses/中国近代史/4.中国新民主主义革命.md",
-                "mode": "source",
+                "file": "Tasks.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -168,8 +156,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "15eabb5aa763af1f",
+  "active": "c1dc35123989aa44",
   "lastOpenFiles": [
+    "Study/数学分析/下册/常数项级数.md",
+    "Study/数学分析/下册/函数展开.md",
+    "Study/Python/Conclusion/序列容器类型.md",
+    "Study/Python/Conclusion/函数.md",
+    "Study/C Language/知识总结/Types of Data.md",
+    "Study/C Language/知识总结/Structure.md",
+    "Study/C Language/知识总结/Storage,Variable Peremeter & Format IO.md",
+    "Study/C Language/知识总结/Sorting.md",
+    "Study/C Language/知识总结/Pointer & Array.md",
+    "Study/数学分析/下册/函数项级数.md",
+    "Study/数学分析/下册/幂级数.md",
+    "Tasks.md",
+    "Study/Thermal Physics/notes/The Second Law.md",
+    "Study/Thermal Physics/images/克劳修斯定理.jpg",
+    "Study/Thermal Physics/images/卡诺定理2.png",
+    "Study/Thermal Physics/images/卡诺定理1.jpg",
     "General courses/中国近代史/4.中国新民主主义革命.md",
     "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
     "General courses/中国近代史/2.中国的出路在哪里.md",
@@ -178,36 +182,21 @@
     "Study/Electrodynamics/Electrodynamics/2.Electrostatics.md",
     "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
     "Study/Electrodynamics/Electrodynamics/3.Potential (part2).md",
-    "Study/Python/Conclusion/序列容器类型.md",
     "Study/Python/Conclusion/基础语法.md",
-    "Study/Python/Conclusion/函数.md",
     "Study/Python/Conclusion/一些算法.md",
     "Study/Python/coures/Python第7节.md",
     "Study/Python/coures/python第6节.md",
     "Study/Python/coures/python第5节.md",
-    "Study/Python/coures/python第3节.md",
-    "Study/Thermal Physics/notes/Kinetic Theory.md",
-    "Study/Thermal Physics/notes/Some Fundamental Concepts.md",
-    "Study/Thermal Physics/notes/The Second Law.md",
-    "Study/Thermal Physics/notes/Mathematics.md",
     "Study/Thermal Physics/notes",
     "Study/Thermal Physics/images",
     "Study/Thermal Physics/images/Pasted image 20240330113554.png",
-    "Study/数学分析/下册/幂级数.md",
     "Study/Thermal Physics/images/Pasted image 20240330111443.png",
     "Study/Thermal Physics/Pasted image 20240330113507.png",
     "Pasted image 20240330111302.png",
-    "Study/数学分析/下册/函数展开.md",
-    "General courses/中国近代史/1.中国近代史开端.md",
-    "Study/Python/coures/python第11节.md",
-    "Study/Python/coures/python第12节.md",
-    "Study/Python/coures/python第13节课.md",
     "Study/Thermal Physics",
     "Study/Python/coures/Pasted image 20240317221218.png",
     "Study/Python/coures/Pasted image 20240317221203.png",
     "Study/Python/coures/Pasted image 20240317224656.png",
-    "Study/Python/coures/Pasted image 20240317221713.png",
-    "Study/数学分析/手写笔记/Untitled.png",
     "Notion/函数项级数",
     "Notion",
     "Study/数学分析/下册/81130981-e2cc-45b6-829b-c9dd8313d4df_Export-5a9f0ebf-5828-48e7-97c3-a4d84f5f63c4.zip",
@@ -215,7 +204,6 @@
     "General courses/职业生涯规划",
     "Study/Electrodynamics/course",
     "General courses",
-    "Study/Electrodynamics/figure/Untitled 3.png",
     "未命名.canvas"
   ]
 }
