@@ -4,17 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "af9a0400e16a9f7e",
+        "id": "d2f42adc6b15abef",
         "type": "tabs",
         "children": [
           {
-            "id": "c1dc35123989aa44",
+            "id": "1fff05a1ffd9aae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "mode": "preview",
+                "file": "Study/Programming/Python/科学计算/数组和矩阵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac9546806715a0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/Programming/Python/Conclusion/序列容器类型.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Study/Programming/Python/科学计算/数组和矩阵.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Study/Programming/Python/科学计算/数组和矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +137,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Study/Programming/Python/科学计算/数组和矩阵.md"
               }
-            }
-          },
-          {
-            "id": "8e362a08f2beb0e8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ],
@@ -156,37 +160,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c1dc35123989aa44",
+  "active": "1fff05a1ffd9aae4",
   "lastOpenFiles": [
-    "Study/数学分析/下册/常数项级数.md",
-    "Study/数学分析/下册/函数展开.md",
-    "Study/Python/Conclusion/序列容器类型.md",
-    "Study/Python/Conclusion/函数.md",
-    "Study/C Language/知识总结/Types of Data.md",
-    "Study/C Language/知识总结/Structure.md",
-    "Study/C Language/知识总结/Storage,Variable Peremeter & Format IO.md",
-    "Study/C Language/知识总结/Sorting.md",
-    "Study/C Language/知识总结/Pointer & Array.md",
-    "Study/数学分析/下册/函数项级数.md",
-    "Study/数学分析/下册/幂级数.md",
+    "index.html",
+    "index.txt",
+    "新建 文本文档.txt",
+    "Study/Programming/Python/Conclusion/序列容器类型.md",
+    "Study/Programming/Python/科学计算/数组和矩阵.md",
+    "Study/Programming/MATLAB/基本运算.md",
+    "Study/Programming/Python/coures/Pasted image 20240302153355.png",
+    "Study/Programming/Python/coures/python第11节.md",
+    "Study/Programming/Python/coures/python第12节.md",
+    "Study/Programming/Python/coures/python第13节课.md",
+    "Study/Programming/Python/coures/python第10节.md",
+    "Study/Programming/Python/coures/python第9节.md",
+    "Study/Programming/Python/Conclusion/函数.md",
+    "Study/Programming/Python/Conclusion/一些算法.md",
+    "Study/Programming/Python/Conclusion/基础语法.md",
     "Tasks.md",
+    "Study/Programming/MATLAB/基本运算",
+    "Study/Electrodynamics/Electrodynamics/3.Potential (part2).md",
+    "Study/Programming",
+    "Study/Programming/Python/科学计算",
+    "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
+    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
+    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
+    "Study/数学分析/下册/函数展开.md",
+    "Study/数学分析/下册/幂级数.md",
+    "Study/数学分析/下册/函数项级数.md",
+    "Study/数学分析/下册/常数项级数.md",
     "Study/Thermal Physics/notes/The Second Law.md",
+    "Study/Thermal Physics/notes/Some Fundamental Concepts.md",
+    "Study/Thermal Physics/notes/Mathematics.md",
+    "Study/Thermal Physics/notes/Kinetic Theory.md",
+    "General courses/中国近代史/5.新民主主义革命第二阶段.md",
+    "Study/Programming/MATLAB",
     "Study/Thermal Physics/images/克劳修斯定理.jpg",
     "Study/Thermal Physics/images/卡诺定理2.png",
     "Study/Thermal Physics/images/卡诺定理1.jpg",
-    "General courses/中国近代史/4.中国新民主主义革命.md",
-    "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
-    "General courses/中国近代史/2.中国的出路在哪里.md",
-    "General courses/中国近代史/3.中国共产党的成立.md",
-    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
-    "Study/Electrodynamics/Electrodynamics/2.Electrostatics.md",
-    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
-    "Study/Electrodynamics/Electrodynamics/3.Potential (part2).md",
-    "Study/Python/Conclusion/基础语法.md",
-    "Study/Python/Conclusion/一些算法.md",
-    "Study/Python/coures/Python第7节.md",
-    "Study/Python/coures/python第6节.md",
-    "Study/Python/coures/python第5节.md",
     "Study/Thermal Physics/notes",
     "Study/Thermal Physics/images",
     "Study/Thermal Physics/images/Pasted image 20240330113554.png",
@@ -194,16 +205,9 @@
     "Study/Thermal Physics/Pasted image 20240330113507.png",
     "Pasted image 20240330111302.png",
     "Study/Thermal Physics",
-    "Study/Python/coures/Pasted image 20240317221218.png",
-    "Study/Python/coures/Pasted image 20240317221203.png",
-    "Study/Python/coures/Pasted image 20240317224656.png",
+    "Study/Programming/Python/coures/Pasted image 20240317221218.png",
+    "Study/Programming/Python/coures/Pasted image 20240317221203.png",
     "Notion/函数项级数",
-    "Notion",
-    "Study/数学分析/下册/81130981-e2cc-45b6-829b-c9dd8313d4df_Export-5a9f0ebf-5828-48e7-97c3-a4d84f5f63c4.zip",
-    "My-notes",
-    "General courses/职业生涯规划",
-    "Study/Electrodynamics/course",
-    "General courses",
     "未命名.canvas"
   ]
 }
