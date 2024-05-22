@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2f42adc6b15abef",
+        "id": "3366e4c88caa1517",
         "type": "tabs",
         "children": [
           {
-            "id": "1fff05a1ffd9aae4",
+            "id": "241200d78cf1af38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Programming/Python/科学计算/数组和矩阵.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac9546806715a0e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Programming/Python/Conclusion/序列容器类型.md",
+                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "2d81117c014cf85a",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Programming/Python/科学计算/数组和矩阵.md",
+                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Programming/Python/科学计算/数组和矩阵.md",
+                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Programming/Python/科学计算/数组和矩阵.md"
+                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md"
               }
             }
           }
@@ -160,54 +149,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1fff05a1ffd9aae4",
+  "active": "241200d78cf1af38",
   "lastOpenFiles": [
-    "index.html",
-    "index.txt",
-    "新建 文本文档.txt",
-    "Study/Programming/Python/Conclusion/序列容器类型.md",
-    "Study/Programming/Python/科学计算/数组和矩阵.md",
-    "Study/Programming/MATLAB/基本运算.md",
-    "Study/Programming/Python/coures/Pasted image 20240302153355.png",
-    "Study/Programming/Python/coures/python第11节.md",
-    "Study/Programming/Python/coures/python第12节.md",
-    "Study/Programming/Python/coures/python第13节课.md",
-    "Study/Programming/Python/coures/python第10节.md",
-    "Study/Programming/Python/coures/python第9节.md",
-    "Study/Programming/Python/Conclusion/函数.md",
-    "Study/Programming/Python/Conclusion/一些算法.md",
+    "General courses/中国近代史/史纲作业.md",
+    "General courses/中国古代典籍文化/姓名和避讳.md",
+    "General courses/中国古代典籍文化/古代科举制度.md",
     "Study/Programming/Python/Conclusion/基础语法.md",
-    "Tasks.md",
-    "Study/Programming/MATLAB/基本运算",
-    "Study/Electrodynamics/Electrodynamics/3.Potential (part2).md",
-    "Study/Programming",
-    "Study/Programming/Python/科学计算",
-    "Study/Electrodynamics/Electrodynamics/4.Field in Matters.md",
-    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
-    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
-    "Study/数学分析/下册/函数展开.md",
-    "Study/数学分析/下册/幂级数.md",
-    "Study/数学分析/下册/函数项级数.md",
-    "Study/数学分析/下册/常数项级数.md",
+    "Study/Programming/Python/Conclusion/序列容器类型.md",
+    "Study/Programming/Python/Conclusion/一些算法.md",
     "Study/Thermal Physics/notes/The Second Law.md",
-    "Study/Thermal Physics/notes/Some Fundamental Concepts.md",
     "Study/Thermal Physics/notes/Mathematics.md",
     "Study/Thermal Physics/notes/Kinetic Theory.md",
-    "General courses/中国近代史/5.新民主主义革命第二阶段.md",
-    "Study/Programming/MATLAB",
+    "Study/Thermal Physics/notes/Some Fundamental Concepts.md",
+    "Presentation.md",
+    "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
+    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
+    "Study/Electrodynamics/Electrodynamics/2.Electrostatics.md",
+    "General courses/中国近代史/8. 改革开放.md",
+    "思维导图/改革开放后民众观念的变化.xmind",
+    "思维导图/改革开放后的经济发展.xmind",
+    "Task.md",
+    "Study/Electrodynamics/Electrodynamics/6. Magnetic Field in Matters.md",
+    "Study/Electrodynamics/figure/磁滞回线.jpg",
+    "Study/Electrodynamics/figure/Untitled.png",
+    "Study/Electrodynamics/figure/Untitled 3.png",
+    "Study/Electrodynamics/figure/Untitled 2 2.png",
+    "Study/Electrodynamics/figure/Untitled 2.png",
+    "Study/Electrodynamics/figure/Untitled 1 2.png",
+    "Study/Electrodynamics/figure/Untitled 1.png",
+    "英语作业.md",
+    "Study/Electrodynamics/Electrodynamics/5.Magnetostatics.md",
+    "读书笔记/亲密关系/吸引力.md",
+    "思维导图/电磁学.xmind",
+    "读书笔记/亲密关系/社会认知.md",
+    "读书笔记/亲密关系/人际关系的构成.md",
+    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
+    "Study/Programming/Python/coures/Python第7节.md",
+    "Study/Programming/Python/科学计算/绘图和可视化.md",
+    "思维导图",
+    "新建文件夹",
+    "Study/Programming/Python/科学计算/数组和矩阵.md",
+    "General courses/中国古代典籍文化",
+    "读书笔记/亲密关系",
+    "读书笔记",
+    "Pasted image 20240413161234.png",
+    "index.html",
+    "index.txt",
+    "Study/Programming/Python/coures/Pasted image 20240302153355.png",
     "Study/Thermal Physics/images/克劳修斯定理.jpg",
-    "Study/Thermal Physics/images/卡诺定理2.png",
-    "Study/Thermal Physics/images/卡诺定理1.jpg",
-    "Study/Thermal Physics/notes",
-    "Study/Thermal Physics/images",
-    "Study/Thermal Physics/images/Pasted image 20240330113554.png",
-    "Study/Thermal Physics/images/Pasted image 20240330111443.png",
-    "Study/Thermal Physics/Pasted image 20240330113507.png",
-    "Pasted image 20240330111302.png",
-    "Study/Thermal Physics",
-    "Study/Programming/Python/coures/Pasted image 20240317221218.png",
-    "Study/Programming/Python/coures/Pasted image 20240317221203.png",
-    "Notion/函数项级数",
     "未命名.canvas"
   ]
 }
