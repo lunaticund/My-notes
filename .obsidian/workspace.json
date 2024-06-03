@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3366e4c88caa1517",
+        "id": "84f7f50827200aea",
         "type": "tabs",
         "children": [
           {
-            "id": "241200d78cf1af38",
+            "id": "4962993aa39ce359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
+                "file": "Study/Programming/Python/Conclusion/序列容器类型.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "2d81117c014cf85a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
+                "file": "Study/Programming/Python/Conclusion/序列容器类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
+                "file": "Study/Programming/Python/Conclusion/序列容器类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md"
+                "file": "Study/Programming/Python/Conclusion/序列容器类型.md"
               }
             }
           }
@@ -149,27 +148,39 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "241200d78cf1af38",
+  "active": "4962993aa39ce359",
   "lastOpenFiles": [
-    "General courses/中国近代史/史纲作业.md",
-    "General courses/中国古代典籍文化/姓名和避讳.md",
-    "General courses/中国古代典籍文化/古代科举制度.md",
-    "Study/Programming/Python/Conclusion/基础语法.md",
-    "Study/Programming/Python/Conclusion/序列容器类型.md",
-    "Study/Programming/Python/Conclusion/一些算法.md",
-    "Study/Thermal Physics/notes/The Second Law.md",
-    "Study/Thermal Physics/notes/Mathematics.md",
-    "Study/Thermal Physics/notes/Kinetic Theory.md",
-    "Study/Thermal Physics/notes/Some Fundamental Concepts.md",
+    "Task.md",
+    "Study/心理学/心理学导论/绪论.md",
+    "读书笔记/亲密关系/吸引力.md",
+    "Study/心理学/心理学实验编程/MATLAB.md",
+    "Study/心理学/心理学导论",
+    "Study/心理学/心理学实验编程",
+    "Study/心理学",
+    "Study/Electrodynamics/Electrodynamics/5.Magnetostatics.md",
     "Presentation.md",
     "Study/Electrodynamics/Electrodynamics/4.Electric Field in Matters.md",
-    "Study/Electrodynamics/Electrodynamics/3.Potential (part1).md",
     "Study/Electrodynamics/Electrodynamics/2.Electrostatics.md",
-    "General courses/中国近代史/8. 改革开放.md",
+    "Study/Programming/MATLAB/程序设计.md",
+    "Study/Programming/MATLAB/基本运算.md",
+    "General courses/中国古代典籍文化/中国古代典籍文化期中论文.md",
+    "Study/数学分析/上册/第5章 微分中值定理和应用.md",
+    "Study/数学分析/上册/第2章 数列极限.md",
+    "Study/数学分析/下册/常数项级数.md",
+    "Study/数学分析/下册/函数项级数.md",
+    "Study/数学分析/下册/函数展开.md",
+    "Study/数学分析/下册/幂级数.md",
+    "Study/Programming/Python/科学计算/绘图和可视化.md",
+    "Study/Programming/Python/Conclusion/序列容器类型.md",
+    "Study/Programming/Python/科学计算/数组和矩阵.md",
+    "General courses/中国古代典籍文化/古代科举制度.md",
+    "Study/Programming/Python/Conclusion/一些算法.md",
+    "Study/Programming/MATLAB/绘图和可视化.md",
+    "General courses/中国近代史/史纲作业.md",
+    "General courses/中国古代典籍文化/姓名和避讳.md",
+    "Study/Programming/Python/Conclusion/基础语法.md",
     "思维导图/改革开放后民众观念的变化.xmind",
     "思维导图/改革开放后的经济发展.xmind",
-    "Task.md",
-    "Study/Electrodynamics/Electrodynamics/6. Magnetic Field in Matters.md",
     "Study/Electrodynamics/figure/磁滞回线.jpg",
     "Study/Electrodynamics/figure/Untitled.png",
     "Study/Electrodynamics/figure/Untitled 3.png",
@@ -177,24 +188,12 @@
     "Study/Electrodynamics/figure/Untitled 2.png",
     "Study/Electrodynamics/figure/Untitled 1 2.png",
     "Study/Electrodynamics/figure/Untitled 1.png",
-    "英语作业.md",
-    "Study/Electrodynamics/Electrodynamics/5.Magnetostatics.md",
-    "读书笔记/亲密关系/吸引力.md",
     "思维导图/电磁学.xmind",
-    "读书笔记/亲密关系/社会认知.md",
-    "读书笔记/亲密关系/人际关系的构成.md",
-    "Study/Electrodynamics/Electrodynamics/1.Vector Analysis.md",
-    "Study/Programming/Python/coures/Python第7节.md",
-    "Study/Programming/Python/科学计算/绘图和可视化.md",
     "思维导图",
     "新建文件夹",
-    "Study/Programming/Python/科学计算/数组和矩阵.md",
     "General courses/中国古代典籍文化",
     "读书笔记/亲密关系",
-    "读书笔记",
     "Pasted image 20240413161234.png",
-    "index.html",
-    "index.txt",
     "Study/Programming/Python/coures/Pasted image 20240302153355.png",
     "Study/Thermal Physics/images/克劳修斯定理.jpg",
     "未命名.canvas"
